@@ -1,0 +1,32 @@
+h1{
+    color: rgb(205, 42, 110);
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: capitalize;
+    
+    font-family: "Audiowide", sans-serif;
+
+}
+  
+p{
+    color: floralwhite;
+    letter-spacing: 1px; 
+    word-spacing: 4px;
+    text-align: justify;
+    font-weight: 250; 
+    line-height: 1.2;
+    
+    font-family: "Lilita One", sans-serif;
+    
+}
+img{
+    display: block;
+    margin: auto; /* Centers the image horizontally */
+    max-width: 100%;
+    height: auto;
+  
+}
+body{
+    background-color: black;
+}
