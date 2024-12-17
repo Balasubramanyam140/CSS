@@ -1,0 +1,25 @@
+#first-para{
+    border: 3px solid red;
+    padding: 16px;
+    margin: 48px;
+}
+
+#second-para{
+    border: 3px dashed blue;
+    padding-top: 16px;
+    padding-left: 24px;
+    padding-right: 20px;
+    padding-bottom: 28px;
+
+    /*  margin is used for outside bordder      */
+   margin-top: 48px;
+   margin-right: 24px;
+   margin-bottom:  32px;
+   margin-left: 60px;
+}
+
+#third-para{
+    border: 3px solid rgb(20, 176, 36);
+    padding: 16px 20px 24px 28px; /* top -right - bottom - left     */  
+    margin: 30px 32px 40px 40px;
+}
