@@ -1,0 +1,36 @@
+#login{
+    background-color: lightblue;
+    padding:  8px 16px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+} 
+
+#login:hover{
+    background-color: blue;
+    color: white;
+}
+
+#signup{
+    background-color: white;
+    border: 2px solid blue;
+    padding: 8px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#signup:hover{
+    background-color: lightblue;
+}
+
+
+#dis{
+    background-color: lightblue;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    cursor: not-allowed;
+    opacity: 0.6;
+}
