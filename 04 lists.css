@@ -1,0 +1,10 @@
+#first{
+    list-style-type: upper-alpha;
+    width: 400px;
+    list-style-position: inside;
+}
+
+#second{
+    list-style-type: square;
+    padding-left: 0px;
+}
