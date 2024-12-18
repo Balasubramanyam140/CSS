@@ -1,0 +1,14 @@
+.img{
+    width:350px;
+    height: 220px;
+}
+
+.image-wrapper{
+    display: inline;
+}
+.menu{
+     display: block;
+ /*    display: none;
+       visibility: hidden; 
+*/
+}
